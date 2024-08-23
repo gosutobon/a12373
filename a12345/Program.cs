@@ -6,7 +6,7 @@ namespace a12345
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("999");
+            Console.WriteLine("123");
         }
     }
 }
